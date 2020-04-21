@@ -1,6 +1,6 @@
-![Cee](https://i.imgur.com/40RVFAL.jpg)
+![Cee](https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee.jpg?raw=true)
 
-![Cee 的椅子](https://i.imgur.com/e1ed05B.jpg)
+![Cee 的椅子](https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee%20%E6%A4%85%E5%AD%90.jpg?raw=true)
 
 Cee 的装备：
 <ul>
