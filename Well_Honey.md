@@ -1,4 +1,4 @@
-![1](https://i.loli.net/2020/05/05/8jhPdZe9gCm54St.jpg)
+![1](https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Well_Honey.jpg?raw=true)
 Well Honey 的装备：
 - [ ] 显示器：Dell U3818DW
 - [ ] 鼠标：Logitech MX Master 2S
